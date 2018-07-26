@@ -1,2 +1,2 @@
 # Mpesa-Api
-A flask api for mpesa stk push
+An api for mpesa stk push
